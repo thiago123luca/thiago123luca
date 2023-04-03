@@ -1,37 +1,36 @@
 
-# Olá, eu sou o Thiago Luca! 👋
+## Olá, eu sou o Thiago Luca! ✌️
 
 
-## 🚀 Sobre mim
-Eu sou uma pessoa desenvolvedora full-stack e Design
+Eu sou uma pessoa desenvolvedora web full-stack e Design
+- 🌱 Estudando: TypeScript, python e MySQL
+- 😄 Pronome: Ele/Dele
 
-
-## 🛠 Habilidades
+## 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiago123luca&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiago123luca&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <br/>
-Front-End
-<div>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<div style="display: inline_block"><br>
+  <img align="center" alt="thi-Js"  width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="thi-Ts"  width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="thi-React" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="thi-HTML" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="thi-CSS"  width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="thi-mysql"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="thi-nodejs"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="thi-python"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />      
 </div>
-
- <br/>
- Back-End
- <div>
-. . .
- </div>
  
- <br/>
- Design
- <div>
-<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
-<img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
+ ##
+ 
+
+
+<div>
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />   
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />         
 </div>
  
  
