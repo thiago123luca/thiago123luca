@@ -9,7 +9,7 @@ Eu sou uma pessoa desenvolvedora web full-stack e Design
 ## 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiago123luca&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiago123luca&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiago123luca&layout=compact&langs_count=20&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <br/>
