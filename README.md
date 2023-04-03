@@ -3,7 +3,7 @@
 
 
 Eu sou uma pessoa desenvolvedora web full-stack e Design
-- 🌱 Estudando: TypeScript, python e MySQL
+- 🌱 Estudando: React, TypeScript, python e MySQL
 - 😄 Pronome: Ele/Dele
 
 ## 
