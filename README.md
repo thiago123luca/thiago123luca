@@ -30,11 +30,11 @@ Eu sou uma pessoa desenvolvedora web full-stack e Design
  
 
 <h2 align="center">Ferramentas Design✌️</h2>
-<div align="center">
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />   
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />         
+<div align="center" style="display: inline_block">
+<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
+<img  src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />      
 </div>
- 
+
  
  
 
