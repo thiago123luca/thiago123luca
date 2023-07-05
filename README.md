@@ -1,6 +1,5 @@
-
-## Olá, eu sou o Thiago Luca! ✌️
-
+<img src="https://user-images.githubusercontent.com/102265141/251149250-5a10a1ee-1d42-4cf8-b62c-e275d5bbc942.png"/>
+<h2 align="center">Olá, eu sou o Thiago Luca! ✌️</h2>
 
 Eu sou uma pessoa desenvolvedora web full-stack e Design
 - 🌱 Estudando: React, TypeScript, Python e MySQL
@@ -13,7 +12,8 @@ Eu sou uma pessoa desenvolvedora web full-stack e Design
 
 
 <br/>
-<div style="display: inline_block"><br>
+<h2 align="center">Tecnologias</h2>
+<div align="center" style="display: inline_block"><br>
   <img align="center" alt="thi-Js"  width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="thi-Ts"  width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="thi-React" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -27,8 +27,8 @@ Eu sou uma pessoa desenvolvedora web full-stack e Design
  ##
  
 
-
-<div>
+<h2 align="center">Ferramentas Design✌️</h2>
+<div align="center">
 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />   
 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />         
 </div>
@@ -36,6 +36,8 @@ Eu sou uma pessoa desenvolvedora web full-stack e Design
  
  
 
-## 🔗 Links
+## <h2 align="center"> 🔗 Links</h2>
+<div align="center">
  <a href = "mailto:thiago123luca@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thiago-luca-machado/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
