@@ -46,6 +46,6 @@ Eu sou uma pessoa desenvolvedora web full-stack e Design
 
 ##
 <div align="center">
-<img width=300px src="https://github.com/thiago123luca/thiago123luca/assets/102265141/73800c86-208a-486d-afb7-4751f95b977d" />
+<img width=300px src="https://github.com/thiago123luca/thiago123luca/assets/102265141/607c89f5-89a0-480d-8cb5-987a283f80ad" />
 <p>Link: https://thiago123luca.github.io/Calculadora-JS/</p>
 </div>
