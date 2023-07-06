@@ -12,7 +12,7 @@ Eu sou uma pessoa desenvolvedora web full-stack e Design
 
 
 <br/>
-<h2 align="center">Tecnologias</h2>
+<h2 align="center">Tecnologias 👨‍💻</h2> 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="thi-Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img align="center" alt="thi-Ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -29,7 +29,7 @@ Eu sou uma pessoa desenvolvedora web full-stack e Design
  ##
  
 
-<h2 align="center">Ferramentas Design✌️</h2>
+<h2 align="center">Ferramentas Design 🎨</h2>
 <div align="center" style="display: inline_block">
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
 <img  src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />      
