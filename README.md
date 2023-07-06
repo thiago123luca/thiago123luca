@@ -43,3 +43,9 @@ Eu sou uma pessoa desenvolvedora web full-stack e Design
  <a href = "mailto:thiago123luca@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thiago-luca-machado/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+##
+<div align="center">
+<img width=300px src="https://github.com/thiago123luca/thiago123luca/assets/102265141/73800c86-208a-486d-afb7-4751f95b977d" />
+<p>Link: https://thiago123luca.github.io/Calculadora-JS/</p>
+</div>
