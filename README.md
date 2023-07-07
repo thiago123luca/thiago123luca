@@ -50,6 +50,6 @@ Eu sou uma pessoa desenvolvedora web full-stack e Design
 <p>Link: https://thiago123luca.github.io/Calculadora-JS/</p>
 </div>
 <div align="center" style="display: inline_block">
-<img width=300px src="https://github.com/thiago123luca/thiago123luca/assets/102265141/607c89f5-89a0-480d-8cb5-987a283f80ad" />
+<img width=300px src="https://github.com/thiago123luca/thiago123luca/assets/102265141/e87116ef-9ade-4ab5-8086-3b8f05db123b" />
 <p>Link: http://lumpy-plot.surge.sh/</p>
 </div>
